@@ -14,5 +14,5 @@ I will try to make this project work with an open api, so that you can easly run
 
 Git:
 
-    git clone XXXX
+    git clone https://github.com/fatihtepekoy/api_and_ui_test_automation_java17.git
 
